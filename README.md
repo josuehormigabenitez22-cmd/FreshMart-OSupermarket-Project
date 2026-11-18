@@ -30,8 +30,8 @@ programada.
 Necesitas Python 3.11 o superior. Los CSV del caso van en `data/` (no están en el repositorio).
 
 ```powershell
-git clone https://github.com/josuehormigabenitez22-cmd/FreshMart-OSupermarket-Proyect.git
-cd FreshMart-OSupermarket-Proyect
+git clone https://github.com/josuehormigabenitez22-cmd/FreshMart-OSupermarket-Project.git
+cd FreshMart-OSupermarket-Project
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1        # en macOS/Linux: source .venv/bin/activate
 python -m pip install -e ".[dev]"
@@ -137,4 +137,4 @@ FreshMart es un escenario ficticio y los datos son material de práctica.
 
 - LinkedIn: [Josué Juan Hormiga Benítez](https://www.linkedin.com/in/josu%C3%A9-juan-hormiga-ben%C3%ADtez-098499334/)
 - GitHub: [@josuehormigabenitez22-cmd](https://github.com/josuehormigabenitez22-cmd)
-- Repositorio: [FreshMart-OSupermarket-Proyect](https://github.com/josuehormigabenitez22-cmd/FreshMart-OSupermarket-Proyect)
+- Repositorio: [FreshMart-OSupermarket-Project](https://github.com/josuehormigabenitez22-cmd/FreshMart-OSupermarket-Project)
